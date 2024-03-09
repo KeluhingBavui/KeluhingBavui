@@ -57,11 +57,9 @@
 
 ## Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeluhingBavui&show_icons=true&theme=react">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeluhingBavui&layout=compact&theme=react&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api?username=KeluhingBavui&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeluhingBavui&layout=donut&theme=dracula&langs_count=8">
 </p>
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=KeluhingBavui)
 
 ## 🤝🏻 Get in touch with me
 <p>
