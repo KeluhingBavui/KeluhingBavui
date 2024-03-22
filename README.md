@@ -6,10 +6,10 @@
 <h1 align="center"> I'm Daniel Wan Jonathan 👋</h1>
 
 <ul>
-  <li>🎓  Software Engineering student at University of Malaya (🇲🇾)</li>
-  <li>💡   Love to code, then hate it when I face an error, then love it again after solving it</li>
-  <li>🚀  Aspiring to be a full-stack developer</li>
-  </ul>
+  <li>💻 Software Engineer @ Dell Technologies (🇲🇾)</li>
+  <li>🎵 Enjoys EDM or R&B when coding </li>
+  <li>🎮 Play games like Cities Skylines, FIFA or any RPG games from time to time</li>
+</ul>
 
 ## Languages:
 <p>
