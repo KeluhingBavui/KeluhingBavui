@@ -6,8 +6,8 @@
 <h1 align="center"> I'm Daniel Wan Jonathan 👋</h1>
 
 <ul>
-  <li>💻 Software Engineer @ Dell Technologies (🇲🇾)</li>
-  <li>🎵 Enjoys EDM or R&B when coding </li>
+  <li>💻 System Analyst @ Tenaga Nasional Berhad (🇲🇾)</li>
+  <li>🎵 Enjoys EDM and R&B when coding </li>
   <li>🎮 Play games like Cities Skylines, FIFA or any RPG games from time to time</li>
 </ul>
 
